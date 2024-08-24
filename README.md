@@ -76,4 +76,6 @@ A) If you have python:
 
 ```py
 $ npm run build
-```
+
+
+editado por Mauricio Gonzalez 
